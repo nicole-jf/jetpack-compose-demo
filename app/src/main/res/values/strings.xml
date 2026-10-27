@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greeting">Hello, %s!</string>
+    <string name="name_input_field_label">Name</string>
+</resources>
